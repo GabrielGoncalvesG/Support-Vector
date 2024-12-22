@@ -6,8 +6,7 @@ Este repositório contém exemplos de aplicação do algoritmo SVM (Support Vect
 
 - `dataset/` - Contém datasets utilizados nos exemplos.
 - `notebooks/` - Contém notebooks Jupyter com implementações detalhadas do SVM.
-- `scripts/` - Contém scripts Python para treinar e avaliar modelos SVM.
-- `results/` - Contém resultados e visualizações geradas pelos notebooks
+- `read.me/` - Contém arquivo read.me detalhando o repositório.
 
 ## Requisitos
 
@@ -17,4 +16,6 @@ Para executar os exemplos fornecidos, você precisará ter o Python instalado, j
 - `pandas`
 - `scikit-learn`
 - `matplotlib`
+- `seaborn`
 - `jupyter`
+  
