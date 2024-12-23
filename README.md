@@ -4,7 +4,7 @@ Este repositório contém exemplos de aplicação do algoritmo SVM (Support Vect
 
 ## Estrutura do Repositório
 
-- `dataset/` - Contém datasets utilizados nos exemplos.
+- `datasets/` - Contém datasets utilizados nos exemplos.
 - `notebooks/` - Contém notebooks Jupyter com implementações detalhadas do SVM.
 - `read.me/` - Contém arquivo read.me detalhando o repositório.
 
