@@ -1,6 +1,6 @@
-# Algoritmo SVM (Support Vector Machine)
+# Algoritmo SV (Support Vector)
 
-Este repositório contém exemplos de aplicação do algoritmo SVM (Support Vector Machine) em diferentes contextos. O SVM é um algoritmo de aprendizado supervisionado amplamente utilizado para classificação e regressão. Aqui, fornecemos implementações em Python usando a biblioteca `scikit-learn`.
+Este repositório contém exemplos de aplicação dos algoritmos de SVM (Support Vector Machine) e SVR (Support Vector Regression) em diferentes contextos. O SVM é um algoritmo de aprendizado supervisionado amplamente utilizado para classificação e o SVR para regressão. Aqui, fornecemos implementações em Python usando a biblioteca `scikit-learn`.
 
 ## Estrutura do Repositório
 
